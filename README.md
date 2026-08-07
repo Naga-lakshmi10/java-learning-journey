@@ -18,6 +18,8 @@ java-learning-journey/
 │   │   ├── EmployeeDetails.java
 │   │   ├── StudentMarks.java
 │   │   └── CircleInfo.java
+        └── RectangleAreaPErimeter.java
+
 │   │
 │   ├── 03-Operators/
 │   │   ├── Multiplication.java
