@@ -12,13 +12,14 @@ java-learning-journey/
 ├── src/
 │   ├── 01-Hello-World/
 │   │   └── Hello.java
+        └── EscapeCharacters.java
 │   │
 │   ├── 02-Variables-and-Input/
 │   │   ├── PersonalInfo.java
 │   │   ├── EmployeeDetails.java
 │   │   ├── StudentMarks.java
 │   │   └── CircleInfo.java
-        └── RectangleAreaPErimeter.java
+        └── RectangleAreaPerimeter.java
 
 │   │
 │   ├── 03-Operators/
