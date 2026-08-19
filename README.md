@@ -13,6 +13,7 @@ java-learning-journey/
 │   ├── 01-Hello-World/
 │   │   └── Hello.java
         └── EscapeCharacters.java
+        └── RectanglePattern.java
 │   │
 │   ├── 02-Variables-and-Input/
 │   │   ├── PersonalInfo.java
